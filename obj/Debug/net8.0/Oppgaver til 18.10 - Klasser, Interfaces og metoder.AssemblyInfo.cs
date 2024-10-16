@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oppgaver til 18.10 - Klasser, Interfaces og metoder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4792fa046f249ca48a5f3e1406f50e54c0d7296")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+29f014c8c615640f7cd121e1af5cbdcc6ac0a9fc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oppgaver til 18.10 - Klasser, Interfaces og metoder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oppgaver til 18.10 - Klasser, Interfaces og metoder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

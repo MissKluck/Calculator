@@ -1,0 +1,15 @@
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/obj/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/obj/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.AssemblyInfoInputs.cache
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/obj/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.AssemblyInfo.cs
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/obj/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.csproj.CoreCompileInputs.cache
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/obj/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.sourcelink.json
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/bin/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/bin/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.deps.json
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/bin/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.runtimeconfig.json
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/bin/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.dll
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/bin/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.pdb
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/obj/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.dll
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/obj/Debug/net8.0/refint/Oppgaver til 18.10 - Klasser, Interfaces og metoder.dll
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/obj/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.pdb
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/obj/Debug/net8.0/Oppgaver til 18.10 - Klasser, Interfaces og metoder.genruntimeconfig.cache
+/Users/Sigrid/Documents/C#/Oppgaver til 18.10 - Klasser, Interfaces og metoder/obj/Debug/net8.0/ref/Oppgaver til 18.10 - Klasser, Interfaces og metoder.dll
