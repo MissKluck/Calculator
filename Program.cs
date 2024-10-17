@@ -12,15 +12,28 @@ class Program
 
             // the computer always reads input as string, not double or int even though we write 1 in the terminal because the computer reads it as "1"
             // we tell the computer that it should read input from the terminal and then convert the terminal from string to double
-            Console.WriteLine("enter first number");
+            Console.WriteLine("Enter first number");
             string? input1 = Console.ReadLine();
             double num1 = Convert.ToDouble(input1);
 
-            Console.WriteLine("enter one of these + or -");
+            Console.WriteLine("Enter one of these + or -");
             string? operation = Console.ReadLine();
 
-            Console.WriteLine("enter first number");
+            Console.WriteLine("Enter second number");
             string? input2 = Console.ReadLine();
             double num2 = Convert.ToDouble(input2);
+
+            // tells the computer to add or subtract using the methods created with ICalculate and Calculator
+            switch(operation)
+            {
+                case "+":
+                result = calculator.AddNumbers(num1, num2);
+                break;
+
+                case "-":
+                result = calculator.SubtractNumbers(num1, num2);
+                break;
+            }
+            Console.WriteLine("The result is " + result);
     }
 }
