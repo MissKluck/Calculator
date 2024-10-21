@@ -22,5 +22,19 @@ public interface ICalculator
     /// <param name="b">value of b</param>
     /// <returns>a - b</returns>
     public double SubtractNumbers(double a, double b);
+    /// <summary>
+    /// A methos that returns the sum of A * B
+    /// </summary>
+    /// <param name="a">value of a</param>
+    /// <param name="b">value of b</param>
+    /// <returns>a * b</returns>
+    public double MultiplyNumbers(double a, double b);
+    /// <summary>
+    /// A method that returns the sum of A / B
+    /// </summary>
+    /// <param name="a">value of a</param>
+    /// <param name="b">value of b</param>
+    /// <returns>a / b</returns>
+    public double DivideNumbers(double a, double b);
 
 }
